@@ -37,16 +37,28 @@ Delete the line containing `"left_command",` and you're done!
 
 ## FAQ
 *Why is part two so janky?*
+
 That's how I did it. I should probably figure out how to contribute to karabiner so that ppl don't have to edit `karabiner.json` by hand but for now that's the way to do it. Pls feel free to contribute that and let me know so I can get rid of this mea culpa!
 
+
 *For someone with an emoji keyboard, you don't seem to use them much. Shouldn't you have more emojis throughout this README?*
+
 Yes that's a good point 😬🤣 I'll have to add some 🙂
 
+
 *Why do you have an FAQ instead of just putting these all in Issues*
+
 Ok apparently I am better at MacOS keyboard hacks than at using github correctly 🙃
 
+
 *Why use `shift + option + control` instead of `command + shift + option + control`?*
+
 Weird things were happening with the latter, e.g., commands actually executing, so I decided to stick with the former that I found to be mapped to `nothing`.
+
+
+*Why aren't you utilizing the F keys?*
+
+I did this on a macbook with touch bar. Feel free to add F-key mappings to `DefaultKeyBinding.dict`
 
 # References
 * I 100% stole the idea for this project from [@MattDzugan](https://github.com/mattdzugan/qmk_firmware/blob/master/keyboards/massdrop/alt/keymaps/mattdzugan/keymap.c#L153-L158)
