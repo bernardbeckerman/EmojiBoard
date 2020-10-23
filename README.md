@@ -4,7 +4,7 @@ Turn your USELESS caps-lock key into an emoji keyboard modifier! And yes I typed
 Note: this also has the desirable side-effect of making it harder to auto-caps-lock by accident
 
 # Instructions
-## Part one: get emoji keybindings
+## Part one: emoji keybindings
 * Open Terminal.app
 * Type `mkdir ~/Library/KeyBindings/` and hit enter
 * Put the file `DefaultKeyBinding.dict` into `~/Library/KeyBindings/`
@@ -18,7 +18,7 @@ The current keyboard–emoji mapping is "optimized" for my personal usage (read 
     * To insert different emojis into `DefaultKeyBinding.dict`, type `command + control + space_bar` to bring up the MacOS emoji picker
     * Remember to reload any applications that are open in order for changes to `DefaultKeyBinding.dict` to take effect
 
-## Part two: map caps_lock to `shift + option + control`
+## Part two: mapping caps_lock to `shift + option + control`
 * Follow [this post](https://www.howtogeek.com/409904/how-to-turn-your-mac%E2%80%99s-caps-lock-into-an-extra-modifier-key/), excluding the section titled `A True Hyper Key` (we'll map to emojis instead!). Like the author, I use the method where `shift + caps_lock` maps to `caps_lock`.
 * In `~/.config/karabiner/karabiner.json` there should be a few lines resembling:
 ```
