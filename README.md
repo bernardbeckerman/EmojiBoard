@@ -8,8 +8,7 @@ Note: this also has the desirable side-effect of making it harder to auto-caps-l
 * Open Terminal.app
 * Type `mkdir ~/Library/KeyBindings/` and hit enter
 * Put the file `DefaultKeyBinding.dict` into `~/Library/KeyBindings/`
-    * Note: `~` is shorthand for your home directory
-    * Tip: `~/Library/` is a hidden folder, but you can make it visible by typing `command + shift + .` at the same time
+    * `~/Library/` is a hidden folder that won't show up in Finder, but you can make it visible by typing `command + shift + .` at the same time
 * *IMPORTANT:* Reload any applications you want to use these keybindings in
 
 And _voila_! You should now be able to type emojis by holding down `shift + option + control` and typing any key
