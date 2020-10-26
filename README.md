@@ -1,7 +1,7 @@
 # EmojiBoard for Mac
-Finally your caps-lock key can be useful 🎉 🎉 🎉! Turn it into an keyboard modifier that makes every key you type an emoji 🙂, and watch the hours of time saved pile up 📈
+Finally your caps-lock key can be useful 🎉 🎉 🎉! Turn it into an keyboard modifier that makes every key you type an emoji 🙂, and watch the hours of time saved pile up 📈💰💪.
 
-🎵: this also has the desirable side-effect of making it harder to auto-caps-lock by accident
+🎵: this also has the desirable side-effect of making it harder to auto-caps-lock by accident 🚫
 
 # Instructions
 ## Part one: emoji keybindings
