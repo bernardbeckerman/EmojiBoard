@@ -32,7 +32,7 @@
     "~^%" = (insertText:, "💯");
     "~^\\^" = (insertText:, "🏡");
     "~^&" = (insertText:, "➕");
-    "~^*" = (insertText:, "🤩");
+    "~^*" = (insertText:, "👏");
     "~^(" = (insertText:, "🚫");
     "~^)" = (insertText:, "🙂");
     "~^_" = (insertText:, "👎");
@@ -43,11 +43,11 @@
     "~^?" = (insertText:, "📈");
     "~^>" = (insertText:, "🤝");
     "~^<" = (insertText:, "😴");
-    "~^:" = (insertText:, "🎵");
-    "~^\"" = (insertText:, "🤫");
-    "~^\\~" = (insertText:, "💃");
+    "~^:" = (insertText:, "😭");
+    "~^\"" = (insertText:, "✋");
+    "~^\\~" = (insertText:, "🔥");
     "~^$\033" = (insertText:, "🏝");    /* esc */
-    "~^$\UF700" = (insertText:, "☝️");  /* up arrow */
+    "~^$\UF700" = (insertText:, "👆");  /* up arrow */
     "~^$\UF701" = (insertText:, "👇"); /* down arrow */
     "~^$\UF702" = (insertText:, "👈"); /* left arrow */
     "~^$\UF703" = (insertText:, "👉"); /* right arrow */
