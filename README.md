@@ -16,9 +16,9 @@ And _voila_! You should now be able to type emojis by holding down `shift + opti
 
 The current keyboard–emoji mapping is largely stolen from [@MattDzugan](https://github.com/mattdzugan/qmk_firmware/blob/master/keyboards/massdrop/alt/keymaps/mattdzugan/keymap.c#L153-L158), then lightly optimized for my personal usage (read into that what you like) and what I can more-or-less easily remember, but you can edit the contents of `DefaultKeyBinding.dict` to be whatever you like 🙌! A few tips when doing this:
 
-    🅰️ To insert different emojis into `DefaultKeyBinding.dict`, type `command + control + space_bar` to bring up the MacOS emoji picker
+🅰️ To insert different emojis into `DefaultKeyBinding.dict`, type `command + control + space_bar` to bring up the MacOS emoji picker
 
-    🅱️ Remember to reload any applications that are open in order for changes to `DefaultKeyBinding.dict` to take effect
+🅱️ Remember to reload any applications that are open in order for changes to `DefaultKeyBinding.dict` to take effect
 
 ## Part two: mapping caps_lock to `shift + option + control`
 1️⃣ Follow [this post](https://www.howtogeek.com/409904/how-to-turn-your-mac%E2%80%99s-caps-lock-into-an-extra-modifier-key/), excluding the section titled `A True Hyper Key` (we'll map to emojis instead!). Like the author, I use the method where `shift + caps_lock` maps to `caps_lock`.
