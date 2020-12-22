@@ -1,7 +1,7 @@
 {
     "~^A" = (insertText:, "🅰️");
     "~^B" = (insertText:, "🅱️");
-    "~^C" = (insertText:, "🎊");
+    "~^C" = (insertText:, "🤞");
     "~^D" = (insertText:, "💀");
     "~^E" = (insertText:, "👀");
     "~^F" = (insertText:, "🤦");
@@ -17,7 +17,7 @@
     "~^P" = (insertText:, "🙏");
     "~^Q" = (insertText:, "🤨");
     "~^R" = (insertText:, "🤖");
-    "~^S" = (insertText:, "🤬");
+    "~^S" = (insertText:, "😅");
     "~^T" = (insertText:, "🎉");
     "~^U" = (insertText:, "🙌");
     "~^V" = (insertText:, "😍");
